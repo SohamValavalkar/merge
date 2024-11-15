@@ -10,6 +10,7 @@ int main() {
     printf("Hello World");
     printf("olala");
     printf("mamba");
+    printf("gay");
 
     return 0;
 }
