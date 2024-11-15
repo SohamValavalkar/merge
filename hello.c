@@ -9,6 +9,7 @@ int main() {
     // writing print statement to print hello world
     printf("Hello World");
     printf("olala");
+    printf("mamba");
 
     return 0;
 }
