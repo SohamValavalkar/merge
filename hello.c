@@ -11,6 +11,7 @@ int main() {
     printf("olala");
     printf("mamba");
     printf("gay");
+    printf("hav dusro mare ");
 
     return 0;
 }
